@@ -1,0 +1,8 @@
+[
+  { "name": "Hodinkee", "url": "https://www.hodinkee.com/articles/rss.xml" },
+  { "name": "Fratello", "url": "https://www.fratellowatches.com/feed/" },
+  { "name": "Monochrome", "url": "https://monochrome-watches.com/feed/" },
+  { "name": "aBlogtoWatch", "url": "https://www.ablogtowatch.com/feed/" },
+  { "name": "Oracle of Time", "url": "https://oracleoftime.com/feed/" },
+  { "name": "Time+Tide", "url": "https://timeandtidewatches.com/feed/" }
+]
